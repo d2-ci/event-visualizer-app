@@ -1,2 +1,0 @@
-import{j as e,i as n,u as o}from"./main-DFcPzH4k.js";const a="_container_1luwp_1",i={container:a},c=({name:s="Unknown Visitor"})=>e.jsx("h1",{children:n.t("Hello {{name}}",{name:s})}),l={me:{resource:"me"}},u=()=>{const{error:s,loading:t,data:r}=o(l);return s?e.jsx("span",{children:n.t("ERROR")}):t?e.jsx("span",{children:n.t("Loading...")}):e.jsxs("div",{className:i.container,children:[e.jsx(c,{name:r.me.name}),e.jsx("h3",{children:n.t("Welcome to DHIS2 with TypeScript!")})]})};export{u as default};
-//# sourceMappingURL=app-BKtSKjPE.js.map
