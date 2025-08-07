@@ -1,0 +1,9 @@
+[
+  {
+    "locale": "en",
+    "translations": {
+      "APP_TITLE": "Event Visualizer",
+      "APP_DESCRIPTION": "Event visualizer app and plugin"
+    }
+  }
+]

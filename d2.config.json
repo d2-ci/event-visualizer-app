@@ -1,0 +1,13 @@
+{
+  "type": "app",
+  "name": "event-visualizer",
+  "title": "Event Visualizer",
+  "coreApp": true,
+  "minDHIS2Version": "2.43",
+  "direction": "auto",
+  "version": "0.0.1",
+  "description": "Event visualizer app and plugin",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}
